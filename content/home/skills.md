@@ -15,14 +15,14 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "Python"
+  icon = "python"
   icon_pack = "fab"
   name = "Python"
   description = "70%"
   
 [[feature]]
-  icon = "Linux"
-  icon_pack = "fa"
+  icon = "linux"
+  icon_pack = "fab"
   name = "Linux OSes"
   description = "80%"  
   
@@ -33,7 +33,7 @@ subtitle = ""
   description = "70%"
 
 [[feature]]
-  icon = "Docker"
+  icon = "docker"
   icon_pack = "fab"
   name = "Containers"
   description = "60%"
