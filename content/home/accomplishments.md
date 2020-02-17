@@ -48,4 +48,14 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+[[item]]
+  organization = "Datacamp"
+  organization_url = "https://datacamp.com"
+  title = "Introduction to Git"
+  url = "https://www.datacamp.com/courses/introduction-to-git"
+  certificate_url = "https://drive.google.com/file/d/1f_I8nuK53SkLMF9PhCSlYJxsnjLcd-tN/view?usp=sharing"
+  date_start = "2019-02-11"
+  date_end = ""
+  description = ""
+
 +++

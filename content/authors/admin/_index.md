@@ -29,10 +29,7 @@ interests:
 education:
   courses:
   
-  - course: MSc in Radio and communications
-    institution: Chungbuk National University
-    year: 2017
-  - course: BSc in Electronic Engineering
+  - course: BSc. in Electronic Engineering
     institution: Universidad Nacional Autonoma de Nicaragua
     year: 2012
 
